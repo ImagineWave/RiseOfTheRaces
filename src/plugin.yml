@@ -1,0 +1,14 @@
+name: RiseOfTheRace
+main: RaceRise.Main
+description: testDesc
+version: 1.0
+api-version: 1.13
+commands:
+    race:
+        usage:
+    setrace:
+        usage:
+    setracelvl:
+        usage:
+    racequest:
+        usage:
