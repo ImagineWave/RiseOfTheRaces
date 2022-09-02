@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="STRcore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../STRcore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

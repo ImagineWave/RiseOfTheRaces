@@ -9,18 +9,18 @@ import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scheduler.BukkitTask;
 
-import RaceRise.Commands.QuestCommand;
-import RaceRise.Commands.SetLevel;
-import RaceRise.Commands.openRacePickGUI;
-import RaceRise.Commands.raceSet;
-import RaceRise.Listeners.BedrockBreak;
-import RaceRise.Listeners.CobbleGenerator;
-import RaceRise.Listeners.GUIListener;
-import RaceRise.Listeners.HpSetup;
-import RaceRise.Listeners.NagaOneShot;
-import RaceRise.Listeners.OrcBlocker;
-import RaceRise.Listeners.Quests;
-import RaceRise.Listeners.Runnebles;
+import RaceRise.commands.QuestCommand;
+import RaceRise.commands.SetLevel;
+import RaceRise.commands.openRacePickGUI;
+import RaceRise.commands.raceSet;
+import RaceRise.listeners.BedrockBreak;
+import RaceRise.listeners.CobbleGenerator;
+import RaceRise.listeners.GUIListener;
+import RaceRise.listeners.HpSetup;
+import RaceRise.listeners.NagaOneShot;
+import RaceRise.listeners.OrcBlocker;
+import RaceRise.listeners.Quests;
+import RaceRise.listeners.Runnebles;
 
 public class Main extends JavaPlugin{
 	private static Main instance;

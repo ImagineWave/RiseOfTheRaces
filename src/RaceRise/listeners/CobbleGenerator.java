@@ -1,8 +1,7 @@
-package RaceRise.Listeners;
+package RaceRise.listeners;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
 import org.bukkit.Bukkit;

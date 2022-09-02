@@ -8,12 +8,17 @@
         <id>codemc-repo</id>
         <url>https://repo.codemc.io/repository/maven-public/</url>
     </repository>
+          <!-- This adds the Spigot Maven repository to the build -->
+      <repository>
+          <id>spigot-repo</id>
+          <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+      </repository>
 </repositories>
 <dependencies>
     <dependency>
-        <groupId>org.yatopiamc</groupId>
-        <artifactId>yatopia-api</artifactId>
-        <version>1.16.5-R0.1-SNAPSHOT</version>
+        <groupId>org.spigotmc</groupId>
+        <artifactId>spigot-api</artifactId>
+        <version>1.19-R0.1-SNAPSHOT</version>
         <scope>provided</scope>
     </dependency>
 </dependencies>

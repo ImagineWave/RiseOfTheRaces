@@ -1,4 +1,4 @@
-package RaceRise.Commands ;
+package RaceRise.commands;
 
 import java.io.File;
 import java.io.IOException;

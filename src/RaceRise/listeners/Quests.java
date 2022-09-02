@@ -1,4 +1,4 @@
-package RaceRise.Listeners;
+package RaceRise.listeners;
 
 import java.io.File;
 import java.io.IOException;
@@ -15,8 +15,6 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.event.entity.EntityDeathEvent;
-import org.bukkit.potion.PotionEffect;
-import org.bukkit.potion.PotionEffectType;
 
 import RaceRise.Main;
 

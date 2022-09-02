@@ -1,8 +1,7 @@
-package RaceRise.Listeners;
+package RaceRise.listeners;
 
 import java.io.File;
 
-import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
